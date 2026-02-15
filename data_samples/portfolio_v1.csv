@@ -1,0 +1,24 @@
+portfolio_name,as_of_date,ticker,quantity
+Growth,2024-01-10,AAPL,15
+Growth,2024-01-10,MSFT,12
+Growth,2024-01-10,NVDA,8
+Growth,2024-01-10,AMZN,10
+Growth,2024-01-10,META,7
+
+Value,2024-01-10,JPM,15
+Value,2024-01-10,XOM,20
+Value,2024-01-10,JNJ,18
+Value,2024-01-10,PG,22
+Value,2024-01-10,BRK.B,10
+
+Balanced,2024-01-10,AAPL,10
+Balanced,2024-01-10,MSFT,8
+Balanced,2024-01-10,JPM,12
+Balanced,2024-01-10,JNJ,15
+Balanced,2024-01-10,XOM,10
+
+Tech Concentrated,2024-01-10,NVDA,20
+Tech Concentrated,2024-01-10,AAPL,18
+Tech Concentrated,2024-01-10,MSFT,15
+Tech Concentrated,2024-01-10,GOOGL,14
+Tech Concentrated,2024-01-10,META,12
